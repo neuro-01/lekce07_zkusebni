@@ -5,3 +5,5 @@ Prvni pokus
 Druha zmena
 
 Zmena Prvni-vetev
+
+ZmenaKonfliktPrvniVetev
