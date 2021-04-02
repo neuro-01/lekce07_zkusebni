@@ -11,3 +11,5 @@ ZmenaBezKonfliktu
 Test SourceTree Zmena
 
 Test IntelliJ IDEA Branch - test 2
+
+Druha zmena z IDEA
