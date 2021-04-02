@@ -9,3 +9,5 @@ Zmena Prvni-vetev
 ZmenaBezKonfliktu
 
 Test SourceTree Zmena
+
+Test IntelliJ IDEA Branch - test 2
