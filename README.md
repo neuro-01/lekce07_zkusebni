@@ -6,4 +6,4 @@ Druha zmena
 
 Zmena Prvni-vetev
 
-ZmenaBezKonfliktutest
+ZmenaBezKonfliktu
