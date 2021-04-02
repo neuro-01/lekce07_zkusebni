@@ -7,3 +7,5 @@ Druha zmena
 Zmena Prvni-vetev
 
 ZmenaBezKonfliktu
+
+Test SourceTree Zmena
